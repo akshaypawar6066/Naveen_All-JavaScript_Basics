@@ -8,7 +8,7 @@ console.log(user)
 
 user.email="AKSHAY@123";
 console.log(user)
-
+console.log("Hello");
 
 console.log(user.name);
 console.log(user["age"])
